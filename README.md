@@ -30,7 +30,7 @@ BioBuddies, çevre bilincini vurgulayan ve sürdürülebilirlik temasını ele a
 - 8-18 yaş arası genç oyuncular merkezde olmak üzere renkli tasarımı ve zorluk seviyesi ile her yaş grubundaki çevre duyarlılığı olan oyunculara hitap etmektedir.
 ## Juriye Not
 # Sprint 1
-- **Sprint Notları:** 
+- **Sprint Notları:** Oyun hakkında bilgileri içeren tasarım dokümanı oluşturulmuştur. [Oyun tasarım ve sunum dokümanı](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/OUA%20Bootcamp%20GDD.pdf)  
 - **Sprint içinde tamamlanması tahmin edilen puan:** 125 Puan
 - **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in sınavlarımızla da çakıştığı göz önüne alınarak en azından 125 ile başlanması gerektiğine karar verildi.
 - **Daily Scrum:** Daily Scrum toplantılarının zamansal sebepler ve uygunluk durumuna göre Discord veya WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği google docs linki olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1ssjPd-dubdtboDBRsZzA9yQCNntxzObwnmhp2ZK0EK8/edit?usp=sharing)
@@ -49,3 +49,5 @@ BioBuddies, çevre bilincini vurgulayan ve sürdürülebilirlik temasını ele a
 ![BereliKarakter](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/bereliKarakter.png)
 ![PembeKasklıKarakter](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/pembeKasklıKarakter.png)
 ![ŞapkalıKarakter](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/şapkalıKarakter.png)
+- **Sprint Review:** Alınan kararlar: Oyun haritası detaylı olarak çıkartılmış, Level 1 başta olmak üzere karakter ve çevre tasarımlarına başlanmış ve karakterin oyun içi mekanikleri yazılmaya başlanmıştır. Sprint Review katılımcıları: Tüm ekip.
+- **Sprint Retrospective:** Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
