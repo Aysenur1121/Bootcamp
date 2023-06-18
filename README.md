@@ -34,7 +34,7 @@ BioBuddies, çevre bilincini vurgulayan ve sürdürülebilirlik temasını ele a
 - **Sprint içinde tamamlanması tahmin edilen puan:** 125 Puan
 - **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in sınavlarımızla da çakıştığı göz önüne alınarak en azından 125 ile başlanması gerektiğine karar verildi.
 - **Daily Scrum:** Daily Scrum toplantılarının zamansal sebepler ve uygunluk durumuna göre Discord veya WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/Daily%20Scrums.pdf)
-- ** Sprint Board Update: ** Sprint Board Screenshotları:
+- **Sprint Board Update:** Sprint Board Screenshotları:
 ![Trello Backlog Çıktısı1](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/backlog1.png)
 ![Trello Backlog Çıktısı2](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/backlog2.png)
 - **Ürün Durumu:** Ekran Görüntüleri:  
