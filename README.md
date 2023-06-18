@@ -16,7 +16,7 @@ BioBuddies, çevre bilincini vurgulayan ve sürdürülebilirlik temasını ele a
 - **Oyun birincil fonksiyonu:** Oyunun birincil fonksiyonu oyuncuya kendi başına ve arkadaşlarıyla eğlenerek ve rekabet içerisinde oynayabileceği bir oyun deneyimi sunmaktır. Oyun içerisinde kullanılan renkli grafikler, farklı oyun modları ve başarıların gözlemlenebileceği oyun sonu liderlik tabloları ile bu etkileşim oyuncuya sunulmaktadır.
 - **Oyun ikincil fonksiyonu:** Oyunun ikincil fonksiyonu oyun modlarının temalarını da oluşturan sürdürülebilirlik konusunda oyuncuda farkındalık oluşturmaktır. Farklı bölümlerde iklim değişikliğinin doğaya verdiği zarara şahit olması ve atıksız bir çevrenin canlılar için daha güzel ve yaşanılabilir olduğuna dikkat çekmesi sağlanmaktadır.
 ## Ürün Özellikleri
-- Sürdürülebilirlik temasının konu alındığı 3 mini oyundan oluşan ve oyuncuya çevre bilincinin kazandırılmasına yönelik mesajlar içeren 3 farklı leveldan oluşmaktadır. 
+- Sürdürülebilirlik temasının konu alındığı, oyuncuya çevre bilincinin kazandırılmasına yönelik mesajlar içeren 3 leveldan oluşmaktadır. 
 - Görsel olarak canlı renklerin hakim olduğu sevimli bir tasarım kullanılmaktadır. 
 - Oyuncu hem single modunda oynama, hem de multiplayer desteğiyle diğer oyuncularla rekabet ederek oynama seçeneklerine sahiptir.
 - Puanlama sistemi ve liderlik tablosuyla oyuncular arası rekabet teşvik edilir.
