@@ -38,16 +38,16 @@ BioBuddies, çevre bilincini vurgulayan ve sürdürülebilirlik temasını ele a
 ![Trello Backlog Çıktısı1](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/backlog1.png)
 ![Trello Backlog Çıktısı2](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/backlog2.png)
 - **Ürün Durumu:** Ekran Görüntüleri:  
-![Renkli Çevre Tasarımı Assetleri1](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/renkliÇevreTasarımı.png)
-![Renkli Çevre Tasarımı Assetleri2 - Buzullar](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/renkliÇevreTasarımı2.png)
+![Renkli Çevre Tasarımı Assetleri1](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/renkliCevreTasarimi.png)
+![Renkli Çevre Tasarımı Assetleri2 - Buzullar](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/renkliCevreTasarimi2.png)
 ![Karakter1](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/Character.png)
 ![Karakter2](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/Character_2.png)
 ![Aksesuar Tasarımları](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/karakterAksesuarları.png)
 ![Penguen](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/Penguen.jpeg)
-![RiglenmişPenguen](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/RiglenmişPenguen.png)
-![MorŞapkalıKarakter](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/MorŞapkalıKarakter.png)
+![RiglenmişPenguen](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/RiglenmisPenguen.png)
+![MorŞapkalıKarakter](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/MorSapkaliKarakter.png)
 ![BereliKarakter](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/bereliKarakter.png)
 ![PembeKasklıKarakter](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/pembeKasklıKarakter.png)
-![ŞapkalıKarakter](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/şapkalıKarakter.png)
+![ŞapkalıKarakter](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/sapkaliKarakter.png)
 - **Sprint Review:** Alınan kararlar: Oyun haritası detaylı olarak çıkartılmış, Level 1 başta olmak üzere karakter ve çevre tasarımlarına başlanmış ve karakterin oyun içi mekanikleri yazılmaya başlanmıştır. Sprint Review katılımcıları: Tüm ekip.
 - **Sprint Retrospective:** Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
