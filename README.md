@@ -1,5 +1,5 @@
 # Takım İsmi
-Bee 154,9
+Unity 44 | Bee 154,9
 # Ürün İle İlgili Bilgiler
 ## Takım Elemanları
 -Ezgi Balkanoğlu: Product Owner  
