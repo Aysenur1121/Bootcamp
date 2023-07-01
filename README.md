@@ -51,3 +51,20 @@ BioBuddies, çevre bilincini vurgulayan ve sürdürülebilirlik temasını ele a
 ![ŞapkalıKarakter](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/sapkaliKarakter.png)
 - **Sprint Review:** Alınan kararlar: Oyun haritası detaylı olarak çıkartılmış, Level 1 başta olmak üzere karakter ve çevre tasarımlarına başlanmış ve karakterin oyun içi mekanikleri yazılmaya başlanmıştır. Sprint Review katılımcıları: Tüm ekip.
 - **Sprint Retrospective:** Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+## Product Backlog URL
+# Sprint 2
+- **Sprint Notları:** Oyun hakkında bilgileri içeren tasarım dokümanı oluşturulmuştur. [Oyun tasarım ve sunum dokümanı](// sprint notları pdf linki eklenecek)
+- **Sprint içinde tamamlanması tahmin edilen puan:** 220 Puan
+- **Daily Scrum:** Daily Scrum toplantılarının zamansal sebepler ve uygunluk durumuna göre Discord veya WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](//daily scrumların linki eklenecek)
+- **Sprint Board Update:** Sprint Board Screenshotları:
+![Trello Backlog Çıktısı1](//trello ekran resmi eklenecek)
+![Trello Backlog Çıktısı2](//trello ekran resmi eklenecek)
+- **Ürün Durumu:** Ekran Görüntüleri:
+![Renkli Çevre Tasarımı Assetleri1](//oyun ekran görüntüsü ve videolar eklenecek)
+- **Sprint Review:** Alınan kararlar: Oyunun single mekanikleri ilk iki bölüm için tamamlanmış ve yeni özellikler eklenmiştir, karakterin ve çevrenin görünümünü destekleyici tasarımlar yapılmış ve UI ve multiplayer üzerinde çalışmaya başlanmıştır. Sprint Review katılımcıları: Tüm ekip.
+- **Sprint Retrospective:**
+  * Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+  * Trello'nun daha aktif ve güncel tutulması gerektiği vurgulanmıştır.
+    
+
+
