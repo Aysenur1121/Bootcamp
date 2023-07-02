@@ -52,6 +52,7 @@ BioBuddies, çevre bilincini vurgulayan ve sürdürülebilirlik temasını ele a
 - **Sprint Review:** Alınan kararlar: Oyun haritası detaylı olarak çıkartılmış, Level 1 başta olmak üzere karakter ve çevre tasarımlarına başlanmış ve karakterin oyun içi mekanikleri yazılmaya başlanmıştır. Sprint Review katılımcıları: Tüm ekip.
 - **Sprint Retrospective:** Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 ## Product Backlog URL
+[Unity Team 44 Trello Backlog Board](https://trello.com/b/BD0h5AQL)  
 # Sprint 2
 - **Sprint Notları:** Oyun hakkında bilgileri içeren tasarım dokümanı oluşturulmuştur. [Oyun tasarım ve sunum dokümanı](// sprint notları pdf linki eklenecek)
 - **Sprint içinde tamamlanması tahmin edilen puan:** 220 Puan
