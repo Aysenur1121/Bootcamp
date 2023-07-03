@@ -61,11 +61,21 @@ BioBuddies, çevre bilincini vurgulayan ve sürdürülebilirlik temasını ele a
 - **Sprint Board Update:** Sprint Board Screenshotları:
 ![Trello Backlog Çıktısı](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/BacklogTrello.png)
 - **Ürün Durumu:** Ekran Görüntüleri:
-![Renkli Çevre Tasarımı Assetleri1](//oyun ekran görüntüsü ve videolar eklenecek)
-- **Sprint Review:** Alınan kararlar: Oyunun single mekanikleri ilk iki bölüm için tamamlanmış ve yeni özellikler eklenmiştir, karakterin ve çevrenin görünümünü destekleyici tasarımlar yapılmış ve UI ve multiplayer üzerinde çalışmaya başlanmıştır. Sprint Review katılımcıları: Tüm ekip.
+![Menu UI ve kodları](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/menu.png)
+![Hızlanma Yavaslama Spawn birinci bolum video](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/birinciBolum.mp4)
+![ikinci bölüm video](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/ikinciBolum.mp4)
+![buzda kuculme video](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/kuculme.mp4)
+![karakter aksusarı sapkalar](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/aksesuarlar.png)
+![magnet acıkken coplerin oyuncuya dogru cekilmesi icin kod](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/bir.png)
+![Magnet true false olduğunda neler olacak? kod](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/iki.png)
+![Buzulları küçültmek için yazdığımız kod](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/uc.png)
+![Renk değiştirmek için yazdığımız değişkenler](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/dort.png)
+![İlk level ontrigger metodlarını kullanım şeklimiz](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/bes.png)
+- **Sprint Review:** Alınan kararlar: Oyunun single mekanikleri ilk iki bölüm için tamamlanmış ve yeni özellikler eklenmiştir, karakterin ve çevrenin görünümünü destekleyici tasarımlar yapılmış ve UI ve multiplayer üzerinde çalışmaya başlanmıştır. Github üzerinde çıkan hatalar sonucu ilerlemede yavaşlamalar olmuş ancak bir sonraki sprintte benzer bir problemle karşılaşmamak için için önlemler alınmıştır. Sprint Review katılımcıları: Tüm ekip.
 - **Sprint Retrospective:**
-  * Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+  * Takım üyelerinin gelecek sprintlerde daha aktif olması gerektiğine vurgu yapılmıştır.
   * Trello'nun daha aktif ve güncel tutulması gerektiği vurgulanmıştır.
+    
     
 
 
