@@ -62,7 +62,7 @@ BioBuddies, çevre bilincini vurgulayan ve sürdürülebilirlik temasını ele a
 ![Trello Backlog Çıktısı](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/BacklogTrello.png)
 - **Ürün Durumu:** Ekran Görüntüleri:
 ![Menu UI ve kodları](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/menu.png)
-![Hızlanma Yavaslama Spawn birinci bolum video](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/birinciBolum.mp4)
+[![Hızlanma Yavaslama Spawn birinci bolum video](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/birincivideo.jpeg)](https://youtu.be/fKFABk25meM)
 ![ikinci bölüm video](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/ikinciBolum.mp4)
 ![buzda kuculme video](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/kuculme.mp4)
 ![karakter aksusarı sapkalar](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/aksesuarlar.png)
