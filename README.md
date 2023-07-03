@@ -54,8 +54,9 @@ BioBuddies, çevre bilincini vurgulayan ve sürdürülebilirlik temasını ele a
 ## Product Backlog URL
 [Unity Team 44 Trello Backlog Board](https://trello.com/b/BD0h5AQL)  
 # Sprint 2
-- **Sprint Notları:** Oyun hakkında bilgileri içeren tasarım dokümanı oluşturulmuştur. [Oyun tasarım ve sunum dokümanı](// sprint notları pdf linki eklenecek)
+- **Sprint Notları:** Sprint sürecinde tutulan notlar ve görselleştirmeler için doküman oluşturulmuştur. [Sprint Notları](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/Sprint%20Notları.pdf)
 - **Sprint içinde tamamlanması tahmin edilen puan:** 220 Puan
+- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. İkinci sprint'in bayram tatiline denk gelmesi de göz önüne alınarak bu sprintin 220 puan olmasına karar verilmiştir.
 - **Daily Scrum:** Daily Scrum toplantılarının zamansal sebepler ve uygunluk durumuna göre Discord veya WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](//daily scrumların linki eklenecek)
 - **Sprint Board Update:** Sprint Board Screenshotları:
 ![Trello Backlog Çıktısı1](//trello ekran resmi eklenecek)
