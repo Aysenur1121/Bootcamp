@@ -60,7 +60,7 @@ BioBuddies, çevre bilincini vurgulayan ve sürdürülebilirlik temasını ele a
 - **Daily Scrum:** Daily Scrum toplantılarının zamansal sebepler ve uygunluk durumuna göre Discord veya WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/Daily%20Scrum.pdf)
 - **Sprint Board Update:** Sprint Board Screenshot'ı:
 ![Trello Backlog Çıktısı](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/BacklogTrello.png)
-- **Ürün Durumu:** Ekran Görüntüleri:
+- **Ürün Durumu:** Ekran Görüntüleri ve Videolar:
 ![Menu UI ve kodları](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/menu.png)
 [![Hızlanma Yavaslama Spawn birinci bolum video](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/birincivideo.jpeg)](https://youtu.be/fKFABk25meM)
 [![ikinci bölüm video](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/ikinciBolumm.webp)](https://youtu.be/vkW1Mspifso)
