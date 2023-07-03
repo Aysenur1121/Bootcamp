@@ -57,10 +57,9 @@ BioBuddies, çevre bilincini vurgulayan ve sürdürülebilirlik temasını ele a
 - **Sprint Notları:** Sprint sürecinde tutulan notlar ve görselleştirmeler için doküman oluşturulmuştur. [Sprint Notları](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/Sprint%20Notları.pdf)
 - **Sprint içinde tamamlanması tahmin edilen puan:** 220 Puan
 - **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. İkinci sprint'in bayram tatiline denk gelmesi de göz önüne alınarak bu sprintin 220 puan olmasına karar verilmiştir.
-- **Daily Scrum:** Daily Scrum toplantılarının zamansal sebepler ve uygunluk durumuna göre Discord veya WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](//daily scrumların linki eklenecek)
+- **Daily Scrum:** Daily Scrum toplantılarının zamansal sebepler ve uygunluk durumuna göre Discord veya WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/Daily%20Scrum.pdf)
 - **Sprint Board Update:** Sprint Board Screenshotları:
-![Trello Backlog Çıktısı1](//trello ekran resmi eklenecek)
-![Trello Backlog Çıktısı2](//trello ekran resmi eklenecek)
+![Trello Backlog Çıktısı](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/BacklogTrello.png)
 - **Ürün Durumu:** Ekran Görüntüleri:
 ![Renkli Çevre Tasarımı Assetleri1](//oyun ekran görüntüsü ve videolar eklenecek)
 - **Sprint Review:** Alınan kararlar: Oyunun single mekanikleri ilk iki bölüm için tamamlanmış ve yeni özellikler eklenmiştir, karakterin ve çevrenin görünümünü destekleyici tasarımlar yapılmış ve UI ve multiplayer üzerinde çalışmaya başlanmıştır. Sprint Review katılımcıları: Tüm ekip.
