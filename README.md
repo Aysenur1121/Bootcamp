@@ -64,7 +64,7 @@ BioBuddies, çevre bilincini vurgulayan ve sürdürülebilirlik temasını ele a
 ![Menu UI ve kodları](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/menu.png)
 [![Hızlanma Yavaslama Spawn birinci bolum video](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/birincivideo.jpeg)](https://youtu.be/fKFABk25meM)
 [![ikinci bölüm video](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/ikinciBolumm.webp)](https://youtu.be/vkW1Mspifso)
-![buzda kuculme video](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/kuculme.mp4)
+[![buzda kuculme video](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/kuculmeVideoResim.jpeg)](https://youtu.be/6077XO0sznM)
 ![karakter aksusarı sapkalar](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/aksesuarlar.png)
 ![magnet acıkken coplerin oyuncuya dogru cekilmesi icin kod](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/bir.png)
 ![Magnet true false olduğunda neler olacak? kod](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/iki.png)
