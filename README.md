@@ -58,7 +58,7 @@ BioBuddies, çevre bilincini vurgulayan ve sürdürülebilirlik temasını ele a
 - **Sprint içinde tamamlanması tahmin edilen puan:** 220 Puan
 - **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. İkinci sprint'in bayram tatiline denk gelmesi de göz önüne alınarak bu sprintin 220 puan olmasına karar verilmiştir.
 - **Daily Scrum:** Daily Scrum toplantılarının zamansal sebepler ve uygunluk durumuna göre Discord veya WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/Daily%20Scrum.pdf)
-- **Sprint Board Update:** Sprint Board Screenshotları:
+- **Sprint Board Update:** Sprint Board Screenshot'ı:
 ![Trello Backlog Çıktısı](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/BacklogTrello.png)
 - **Ürün Durumu:** Ekran Görüntüleri:
 ![Menu UI ve kodları](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/menu.png)
@@ -71,7 +71,7 @@ BioBuddies, çevre bilincini vurgulayan ve sürdürülebilirlik temasını ele a
 ![Buzulları küçültmek için yazdığımız kod](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/uc.png)
 ![Renk değiştirmek için yazdığımız değişkenler](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/dort.png)
 ![İlk level ontrigger metodlarını kullanım şeklimiz](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/bes.png)
-- **Sprint Review:** Alınan kararlar: Oyunun single mekanikleri ilk iki bölüm için tamamlanmış ve yeni özellikler eklenmiştir, karakterin ve çevrenin görünümünü destekleyici tasarımlar yapılmış ve UI ve multiplayer üzerinde çalışmaya başlanmıştır. Github üzerinde çıkan hatalar sonucu ilerlemede yavaşlamalar olmuş ancak bir sonraki sprintte benzer bir problemle karşılaşmamak için için önlemler alınmıştır. Sprint Review katılımcıları: Tüm ekip.
+- **Sprint Review:** Alınan kararlar: Oyunun single mekanikleri ilk iki bölüm için tamamlanmış ve yeni özellikler eklenmiştir, karakterin ve çevrenin görünümünü destekleyici tasarımlar yapılmış ve UI ve multiplayer üzerinde çalışmaya başlanmıştır. Github üzerinde çıkan hatalar sonucu ilerlemede yavaşlamalar olmuş ancak bir sonraki sprintte benzer bir problemle karşılaşmamak için önlemler alınmıştır. Sprint Review katılımcıları: Tüm ekip.
 - **Sprint Retrospective:**
   * Takım üyelerinin gelecek sprintlerde daha aktif olması gerektiğine vurgu yapılmıştır.
   * Trello'nun daha aktif ve güncel tutulması gerektiği vurgulanmıştır.
